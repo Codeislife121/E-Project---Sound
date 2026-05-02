@@ -1,4 +1,4 @@
-Project Introduction
+                                                                              ### Project Introduction
 The SOUND Group Entertainment Website is a web-based platform developed to provide users with easy access to a wide variety of music and video content. In today’s digital world, music and videos are among the most popular sources of entertainment, and users prefer platforms where they can find both latest and classic content in one place.
 
 This project aims to create a centralized entertainment hub where users can explore songs and videos in English as well as regional languages, organized in a structured and user-friendly way. The website not only allows users to consume content but also interact with it through ratings and reviews, making the experience more engaging.
